@@ -1,0 +1,5 @@
+camera_config.json
+models/
+venv/
+__pycache__/
+.pytest_cache/

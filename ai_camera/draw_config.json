@@ -1,0 +1,17 @@
+{
+    "person": {
+        "bg_color": [0,255,0],
+        "text_color": [255,0,0],
+        "thickness": 2
+    },
+    "cat": {
+        "bg_color": [255,0,0],
+        "text_color": [0,0,255],
+        "thickness": 2
+    },
+    "dog": {
+        "bg_color": [0,0,255],
+        "text_color": [0,255,0],
+        "thickness": 2
+    }
+}

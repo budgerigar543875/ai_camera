@@ -1,0 +1,18 @@
+{
+    "model_path": "path/to/model.tflite",
+    "label_path": "path/to/labels.txt",
+    "classes": {
+        "person": {
+            "threshold": 0.7,
+            "enabled": true
+        },
+        "cat": {
+            "threshold": 0.6,
+            "enabled": true
+        },
+        "dog": {
+            "threshold": 0.5,
+            "enabled": false
+        }
+    }
+}
